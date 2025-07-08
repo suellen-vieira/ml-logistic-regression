@@ -1,8 +1,7 @@
 
-# Customer Churn Prediction
+# Data-Driven Customer Churn Prediction and Retention Strategies
 
 This project analyzes customer data from a telecom company to understand and predict customer churn, that is, which customers are likely to cancel their service.
-
 
 ## Objectives
 
